@@ -17,21 +17,3 @@ Zorg dat de vraag in de juiste folder zit zodat de punten bij dat hoofdstuk word
 Momenteel zijn er maar 3 hoofdstukken mogelijk (makkelijk aan te passen)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\stepcounter{deel}
-\clearpage
