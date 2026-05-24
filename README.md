@@ -1,4 +1,4 @@
-## ✨ Features
+## Features:
 
 - Automatische vraagnummering
 - Puntentelling per vraag en per categorie (Kennis / Inzicht / Toepassen)
@@ -7,13 +7,13 @@
 - Overzichtstabel van doelstellingen
 - Net examenlayout (A4, printklaar)
 
-- Gebruik:
+## Gebruik:
 
 - \vraag{aantal punten}{doelstelling}
 
 Zorg dat de vraag in de juiste folder zit zodat de punten bij dat hoofdstuk worden bijgeteld.
 
-Problemen:
+## Problemen:
 Momenteel zijn er maar 3 hoofdstukken mogelijk (makkelijk aan te passen)
 
 
